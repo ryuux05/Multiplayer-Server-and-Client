@@ -1,0 +1,28 @@
+﻿  Server.cpp
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\[Server]\Networking.h(87,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\[Server]\Server.cpp(63): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator <<<unsigned int>(Network::net::message<T> &,const DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=unsigned int
+          ]
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\[Server]\Server.cpp(63): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator <<<unsigned int>(Network::net::message<T> &,const DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=unsigned int
+          ]
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\[Server]\Networking.h(110,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\[Server]\Server.cpp(75): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator >><PlayerInfo>(Network::net::message<T> &,DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=PlayerInfo
+          ]
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\[Server]\Server.cpp(75): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator >><PlayerInfo>(Network::net::message<T> &,DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=PlayerInfo
+          ]
+  [Server].vcxproj -> C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\x64\Debug\[Server].exe

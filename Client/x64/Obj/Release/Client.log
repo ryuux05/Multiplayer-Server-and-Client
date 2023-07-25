@@ -1,0 +1,200 @@
+﻿  Client.cpp
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Particle.h(56,26): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(43,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(43,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(43,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(44,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(44,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(44,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(45,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(45,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.h(48,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.h(48,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\[Server]\Networking.h(87,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(33): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator <<<std::chrono::system_clock::time_point>(Network::net::message<T> &,const DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=std::chrono::system_clock::time_point
+          ]
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(33): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator <<<std::chrono::system_clock::time_point>(Network::net::message<T> &,const DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=std::chrono::system_clock::time_point
+          ]
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\[Server]\Networking.h(110,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(70): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator >><uint32_t>(Network::net::message<T> &,DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=uint32_t
+          ]
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(70): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator >><uint32_t>(Network::net::message<T> &,DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=uint32_t
+          ]
+  ClientInterface.cpp
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\[Server]\Networking.h(87,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(33): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator <<<std::chrono::system_clock::time_point>(Network::net::message<T> &,const DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=std::chrono::system_clock::time_point
+          ]
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(33): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator <<<std::chrono::system_clock::time_point>(Network::net::message<T> &,const DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=std::chrono::system_clock::time_point
+          ]
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\[Server]\Networking.h(110,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(70): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator >><uint32_t>(Network::net::message<T> &,DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=uint32_t
+          ]
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(70): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator >><uint32_t>(Network::net::message<T> &,DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=uint32_t
+          ]
+  GameStart.cpp
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Particle.h(56,26): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(43,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(43,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(43,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(44,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(44,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(44,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(45,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(45,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.h(48,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.h(48,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\[Server]\Networking.h(87,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(33): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator <<<std::chrono::system_clock::time_point>(Network::net::message<T> &,const DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=std::chrono::system_clock::time_point
+          ]
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(33): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator <<<std::chrono::system_clock::time_point>(Network::net::message<T> &,const DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=std::chrono::system_clock::time_point
+          ]
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\[Server]\Networking.h(110,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(70): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator >><uint32_t>(Network::net::message<T> &,DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=uint32_t
+          ]
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(70): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator >><uint32_t>(Network::net::message<T> &,DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=uint32_t
+          ]
+  GameTitle.cpp
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Particle.h(56,26): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(43,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(43,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(43,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(44,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(44,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(44,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(45,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(45,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.h(48,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.h(48,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\[Server]\Networking.h(87,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(33): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator <<<std::chrono::system_clock::time_point>(Network::net::message<T> &,const DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=std::chrono::system_clock::time_point
+          ]
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(33): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator <<<std::chrono::system_clock::time_point>(Network::net::message<T> &,const DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=std::chrono::system_clock::time_point
+          ]
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\[Server]\Networking.h(110,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(70): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator >><uint32_t>(Network::net::message<T> &,DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=uint32_t
+          ]
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(70): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator >><uint32_t>(Network::net::message<T> &,DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=uint32_t
+          ]
+  Player.cpp
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Particle.h(56,26): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(43,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(43,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(43,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(44,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(44,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(44,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(45,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Functions.h(45,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.h(48,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.h(48,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.cpp(129,60): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.cpp(134,60): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.cpp(464,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.cpp(465,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.cpp(737,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.cpp(737,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.cpp(741,266): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.cpp(741,226): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.cpp(741,186): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.cpp(741,158): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.cpp(741,133): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.cpp(741,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.cpp(741,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.cpp(741,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.cpp(745,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\Player.cpp(745,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\[Server]\Networking.h(87,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(33): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator <<<std::chrono::system_clock::time_point>(Network::net::message<T> &,const DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=std::chrono::system_clock::time_point
+          ]
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(33): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator <<<std::chrono::system_clock::time_point>(Network::net::message<T> &,const DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=std::chrono::system_clock::time_point
+          ]
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\[Server]\Networking.h(110,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(70): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator >><uint32_t>(Network::net::message<T> &,DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=uint32_t
+          ]
+C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\Client\ClientInterface.h(70): message : see reference to function template instantiation 'Network::net::message<T> &Network::net::operator >><uint32_t>(Network::net::message<T> &,DataType &)' being compiled
+          with
+          [
+              T=GameMsg,
+              DataType=uint32_t
+          ]
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 3758 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Client.vcxproj -> C:\Users\Republic Of Gamers\Documents\Kogakuin HW\Second Semester\NewWinterProject\x64\Output\Release\Client.exe
